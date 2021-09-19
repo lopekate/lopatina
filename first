@@ -1,0 +1,13 @@
+<html>
+<head>
+    <title>Моя первая html страница</title>
+</head>
+<body>
+    <p>Фрукты</p>
+    <ul>
+        <li>Банан</li>
+        <li>Яблоко</li>
+        <li>Персик</li>
+    </ul>
+</body>
+</html>
